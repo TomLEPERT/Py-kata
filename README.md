@@ -10,9 +10,13 @@ src
     py-kata
         list
         list_advanced
+        list_functions
+        list_multidimensional
     Tests
         list
         list_advanced
+        list_functions
+        list_multidimensional
 
 ## Instructions pour contribuer
 
